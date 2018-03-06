@@ -1,6 +1,6 @@
 {
   "name": "circular-iterable-array",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Extended Array for circularly infinite iteration",
   "main": "index.js",
   "repository": "laggingreflex/circular-iterable-array"
